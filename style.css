@@ -1,7 +1,5 @@
 body{
-background: linear-gradient(195deg, #0099ff, #1f79d1, #225ba4, #1c3f79, #112550, #050b2b); /* made at https://learnui.design/tools/gradient-generator.html */
-}
-
+background: linear-gradient(195deg, #9500ff, #7220e3, #5327c6, #3728a7, #1f2488, #0d1e68, #051749, #050b2b);
 h1 {
  color: white;
 }
