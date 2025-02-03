@@ -1,8 +1,6 @@
 body{
-
-background: linear-gradient(90deg, #003f5b, #3f4e88, #8c509d, #d54c8d, #ff625f, #ff9913)
-
-filter: progid: DXImageTransform.Microsoft.gradient( startColorstr="#145277", endColorstr="#9C7BFF", GradientType=1 );
+ background: linear-gradient(90deg, #003f5b, #3f4e88, #8c509d, #d54c8d, #ff625f, #ff9913)
+}
 
 h1 {
  color: white;
