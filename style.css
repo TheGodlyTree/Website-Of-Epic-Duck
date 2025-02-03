@@ -1,16 +1,12 @@
-body {
- background: hsla(237, 100%, 100%, 1);
+background: hsla(237, 100%, 12%, 1);
 
-background: linear-gradient(90deg, hsla(237, 100%, 100%, 1) 0%, hsla(215, 76%, 41%, 1) 100%);
+background: linear-gradient(90deg, hsla(237, 100%, 12%, 1) 0%, hsla(215, 76%, 41%, 1) 100%);
 
 background: -moz-linear-gradient(90deg, hsla(237, 100%, 12%, 1) 0%, hsla(215, 76%, 41%, 1) 100%);
 
 background: -webkit-linear-gradient(90deg, hsla(237, 100%, 12%, 1) 0%, hsla(215, 76%, 41%, 1) 100%);
 
-filter: progid: DXImageTransform.Microsoft.gradient( startColorstr="#00033E", endColorstr="#195DBA", GradientType=1 );
-
-}
-
+filter: progid: DXImageTransform.Microsoft.gradient( startColorstr="#00033e", endColorstr="#195dba", GradientType=1 );
 
 
 title {
