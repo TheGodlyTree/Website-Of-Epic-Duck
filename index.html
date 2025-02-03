@@ -13,10 +13,12 @@
 <head>
 </head>
 <body>
-	<button type="button" name="mycraft">Minecraft 1.8.8</button>
-
-    <button onclick="location.href='another-page.html'">
-        window.location.href = "Minecraft.html";
-    </button>
+	
+   <button id="navigateButton">Minecraft</button>
+    <script>
+        document.getElementById("navigateButton").onclick = function () {
+            window.location.href = "another-page.html";
+        };
+    </script>
 </body>
 </html>
