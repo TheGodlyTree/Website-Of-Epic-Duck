@@ -1,5 +1,13 @@
 body{
-background: linear-gradient(15deg, #142850, #14365f, #13476f, #125d80, #107792, #0d96a5, #09b8b4, #04ccb1);
+background: hsla(258, 84%, 58%, 1);
+
+background: linear-gradient(135deg, hsla(258, 84%, 58%, 1) 0%, hsla(211, 100%, 23%, 1) 100%);
+
+background: -moz-linear-gradient(135deg, hsla(258, 84%, 58%, 1) 0%, hsla(211, 100%, 23%, 1) 100%);
+
+background: -webkit-linear-gradient(135deg, hsla(258, 84%, 58%, 1) 0%, hsla(211, 100%, 23%, 1) 100%);
+
+filter: progid: DXImageTransform.Microsoft.gradient( startColorstr="#6F38EE", endColorstr="#003873", GradientType=1 );
 h1 {
  color: white;
 }
