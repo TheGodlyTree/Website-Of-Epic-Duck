@@ -1,14 +1,5 @@
 body{
-
-  background: hsla(217, 100%, 100%, 1);
-
-background: linear-gradient(315deg, hsla(217, 100%, 17%, 1) 0%, hsla(294, 69%, 34%, 100%) 100%);
-
-background: -moz-linear-gradient(315deg, hsla(217, 100%, 17%, 1) 0%, hsla(294, 69%, 34%, 100%) 100%);
-
-background: -webkit-linear-gradient(315deg, hsla(217, 100%, 17%, 1) 0%, hsla(294, 69%, 34%, 100%) 100%);
-
-filter: progid: DXImageTransform.Microsoft.gradient( startColorstr="#002258", endColorstr="#871B93", GradientType=1 );
+background-image: linear-gradient(to right top, #0066ff, #0752e8, #0b3ed1, #0a2abb, #0713a4);
 	  background-repeat: no-repeat;
 h1 {
  color: white;
