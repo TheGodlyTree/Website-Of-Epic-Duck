@@ -1,5 +1,5 @@
 body{
-background-image: linear-gradient(to right top, #0e1665, #142370, #1a2f7a, #213c84, #29488e, #2f488f, #354990, #3b4991, #413c88, #472f7d, #4c1f71, #500763);
+background-image: url('gradient.svg')
 h1 {
  color: white;
 }
